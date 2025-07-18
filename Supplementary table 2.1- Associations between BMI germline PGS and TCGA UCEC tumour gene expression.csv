@@ -1,4 +1,4 @@
-﻿Supplementary tbale 2.1: Associations between BMI germline PGS and TCGA UCEC tumour gene expression,,,,,
+﻿Supplementary table 2.1: Associations between BMI germline PGS and TCGA UCEC tumour gene expression,,,,,
 gene,beta,std.error,z-score,p.value,fdr
 ZNF266,-0.196,0.0491,-3.9874,8.23E-05,0.8302
 C8orf77,-0.215,0.0574,-3.7483,2.10E-04,0.8302
