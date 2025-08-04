@@ -1,4 +1,4 @@
-Supplementary table 6.5: Summary statisticis for DNMT3A-, TET2- and ASXL1-mutant CH risks for novel sfFDR-identified genome-wide significant (FP<5x10-8), independent lead variants associated with overall (inc) and overall (exc) CH															
+Supplementary table 6.5: Summary statistics for DNMT3A-, TET2- and ASXL1-mutant CH risks for novel sfFDR-identified genome-wide significant (FP<5x10-8), independent lead variants associated with overall (inc) and overall (exc) CH															
 CH_GWAS	CH_driver_GWAS	rsID	chr	pos	ea	oa	eaf	beta	se	or	l95cl	u95cl	p	fp	nearestGene
 Overall (inc)		rs34016663	1	27186125	C	A	0.1605	0.0533	0.0126	1.0547	1.0289	1.0812	2.48E-05	4.87E-08	ZDHHC18
 Overall (inc)	DNMT3A	rs34016663	1	27186125	C	A	0.1604	0.0651	0.0155	1.0673	1.0353	1.1002	2.70E-05	7.57E-08	
