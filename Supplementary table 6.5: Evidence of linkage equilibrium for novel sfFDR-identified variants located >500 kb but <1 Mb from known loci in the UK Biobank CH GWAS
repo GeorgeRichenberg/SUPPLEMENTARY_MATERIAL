@@ -1,0 +1,18 @@
+Supplementary table 6.5: Evidence of linkage equilibrium for novel sfFDR-identified variants located >500 kb but <1 Mb from known loci in the UK Biobank CH GWAS																			
+CH_GWAS	rsID_sfFDR	chr_sfFDR	pos_sfFDR	ea_sfFDR	oa_sfFDR	eaf_sfFDR	fp	nearestGene_sfFDR	rsID_UKBB	chr_UKBB	pos_UKBB	ea_UKBB	oa_UKBB	eaf_UKBB	p	nearestGene_UKBB	Distance (bp)	D’	R2
+Overall (inc)	rs536897754	6	30419166	G	A	0.1539	4.78E-08	TMPOP1	rs9264393	6	31229279	A	G	0.5207	6.30E-09	HLA-C	810,113	0.4002	0.0182
+Overall (inc)	rs1034332	21	35349285	C	T	0.2288	1.82E-09	LINC00649	rs2834703	21	36340856	T	C	0.6397	3.48E-10	RUNX1	991,571	0.0449	0.0002
+DNMT3A	rs116403919	17	7070862	A	G	0.1989	3.06E-08	ASGR1	rs78378222	17	7571752	G	T	0.0111	1.09E-04	TP53	500,890	0.7479	0.0032
+																			
+Abbreviations	
+sfFDR = Surrogate functional false discovery rate
+CH_GWAS = Clonal haematopoiesis genome-wide association study																			
+chr = chromosome																			
+pos = base pair position (GRCh37)																			
+ea = effect allele																			
+oa = other allele																			
+eaf = effect allele frequency																			
+fp = sfFDR-defined functional p-value																			
+p = original p-value from Kessler et al., 2022 GWAS																			
+D' = D prime																			
+R2 = correlation coefficient 																			
