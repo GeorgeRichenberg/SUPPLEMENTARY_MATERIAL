@@ -1,4 +1,4 @@
-Supplementary Table 2.9: Associations between BMI categories at diagnosis and TCGA UCEC tumour gene expression					
+Supplementary table 2.9: Associations between BMI categories at diagnosis and TCGA UCEC tumour gene expression					
 gene	beta	std.error	z.score	p.value	fdr
 PGR	0.3769	0.0599	6.2872	1.14E-09	2.10E-05
 ANO1	0.3829	0.0630	6.0728	3.80E-09	3.51E-05
