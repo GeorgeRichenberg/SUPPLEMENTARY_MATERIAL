@@ -1,4 +1,4 @@
-Supplementary Table 3.3: Associations between germline genetically predicted PARP inhibition and TCGA OV tumour gene expression					
+Supplementary table 3.3: Associations between germline genetically predicted PARP inhibition and TCGA OV tumour gene expression					
 measure	beta	std.error	z.score	p.value	fdr
 GGTL3	-0.4172	0.1120	-3.7247	0.0002	1.0000
 SERINC5	0.3713	0.1034	3.5895	0.0004	1.0000
